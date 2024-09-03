@@ -1,0 +1,23 @@
+body {
+    /* background-color: #14ecec; */
+    background-image: radial-gradient(white , #9448f0dc);
+    color: black;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px; 
+}
+
+header h1 {
+    color: #E74C3C; 
+}
+
+
+p[style] {
+    color: #FF6347; 
+}
+
+ol li {
+    font-weight: bold;
+    font-style: italic;
+    list-style-position: inside; 
+}
